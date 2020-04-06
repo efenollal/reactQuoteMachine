@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap);
+
+#quote-box {
+    border-radius: 3px;
+    position: relative;
+    width: 450px;
+    padding: 40px 50px;
+    display: table;
+    background-color: #fff;
+    .quote-text {
+        color: #282c34;
+    }
+    .quote-author {
+        color: #282c34;
+    }
+    Button {
+        background-color: #282c34 !important;
+        color: #fff;
+        min-width: 20px;
+
+    }
+}
